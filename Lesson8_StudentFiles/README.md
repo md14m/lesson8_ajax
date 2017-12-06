@@ -4,19 +4,18 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+December 5th, 2017
 
 ### Student Name:  
-(First and Last Name)
+Mariana Domine
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+The purpose of the assignment was to utilize the skills to create a useful webpage that can track down infomation that is requested through API
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://github.com/md14m/lesson8_ajax
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. API is a set of programming instructions used to access web based software
+2. APIs are used very frequently and are becoming crutial when it comes to web development, so it is important to learn how to utilize them.
+3. AJAX lets you load data from a server without needing to refresh the page
